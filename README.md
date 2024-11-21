@@ -9,6 +9,7 @@ A clone website based on BSLC's figma design for my BSLC On Job Training (OJT)
 ## Ketentuan
 
 
+* [x]  Design for multiple sizes (100%, 125%, 150%) on `mediaqueries.css`
 * [x]  Font (Inter)
 * [x]  Icon/Images (Accurate to the figma design)
 * [x]  Colours (#19A89D, #D7E026, #000000)
